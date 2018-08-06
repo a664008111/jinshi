@@ -1,0 +1,226 @@
+{
+  "data": {
+    "home": {
+      "id": 9527,
+      "homecar": "热播电话：",
+      "carnum": "0358-5721421",
+      "homeNav": "Shanxi stone steel",
+      "homeNavs": "industry",
+      "erwei": "扫描二维码 手机网址",
+      "qq": "联系QQ：834321723",
+      "tures": "联系电话：13935834529",
+      "homeyx": "email：834321723@qq.com",
+      "homedz": "联系地址：山西省吕梁市石楼县延安街旧国土资源旁",
+      "homeImg": "./static/334.png",
+      "homeRwImg": "./static/qrCode.png",
+      "homeList": [
+        {
+          "list": "首页",
+          "path": "/navhome",
+          "meta": {
+            "title": "晋石钢业"
+          }
+        },
+        {
+          "list": "关于我们",
+          "path": "/AboutUs",
+          "meta": {
+            "title": "关于我们"
+          }
+        },
+        {
+          "list": "产品中心",
+          "path": "/product",
+          "meta": {
+            "title": "产品中心"
+          }
+        },
+        {
+          "list": "应用场景",
+          "path": "/scenarios",
+          "meta": {
+            "title": "应用场景"
+          }
+        },
+        {
+          "list": "联系我们",
+          "path": "/contactus",
+          "meta": {
+            "title": "联系我们"
+          }
+        }
+      ]
+    },
+    "nav": {
+      "pin": "品质钢材",
+      "gui": "- 好钢材并不贵 -",
+      "navImg": "./static/home.png",
+      "cai": "你值得采购",
+      "yu": "- 产品预览 -",
+      "show": true,
+      "jinImg": "./static/index_tit.png",
+      "id": 22,
+      "pvcImg": [
+        {
+          "id": 17,
+          "images": "./static/true.jpg",
+          "ping": "品质服务"
+        },
+        {
+          "id": 18,
+          "images": "./static/true1.jpg",
+          "ping": "质量保证"
+        },
+        {
+          "id": 19,
+          "images": "./static/true2.jpg",
+          "ping": "专业技术"
+        }
+      ],
+      "huang": [
+        {
+          "id": 7,
+          "huanImg": "http://www.yphb1234.cn/uppic/XL-9023.jpg",
+          "showImg": "http://www.yphb1234.cn/uppic/XL-9023.jpg",
+          "dd": "XL-9023 花洒"
+        },
+        {
+          "id": 8,
+          "huanImg": "http://www.yphb1234.cn/uppic/3231-.jpg",
+          "showImg": "http://www.yphb1234.cn/uppic/3231.jpg",
+          "dd": "3231 坐便"
+        },
+        {
+          "id": 9,
+          "huanImg": "http://www.yphb1234.cn/uppic/317-.jpg",
+          "showImg": "http://www.yphb1234.cn/uppic/317.jpg",
+          "dd": "317S 蹲便"
+        },
+        {
+          "id": 10,
+          "huanImg": "http://www.yphb1234.cn/uppic/602-.jpg",
+          "showImg": "http://www.yphb1234.cn/uppic/602.jpg",
+          "dd": "602T 拖布池"
+        },
+        {
+          "id": 11,
+          "huanImg": "http://www.yphb1234.cn/uppic/XL-9023.jpg",
+          "showImg": "http://www.yphb1234.cn/uppic/XL-9023.jpg",
+          "dd": "XL-9023"
+        },
+        {
+          "id": 12,
+          "huanImg": "http://www.yphb1234.cn/uppic/a0589d8d33f55d7b6c79f2fe30d6ebf5c696fc34-.jpg",
+          "showImg": "http://www.yphb1234.cn/uppic/a0589d8d33f55d7b6c79f2fe30d6ebf5c696fc34.jpg",
+          "dd": "土豪金 水箱"
+        },
+        {
+          "id": 13,
+          "huanImg": "http://www.yphb1234.cn/uppic/XL-9079-.jpg",
+          "showImg": "http://www.yphb1234.cn/uppic/XL-9079.jpg",
+          "dd": "XL-9079 面盆龙头"
+        },
+        {
+          "id": 14,
+          "huanImg": "http://www.yphb1234.cn/uppic/XL-9083-.jpg",
+          "showImg": "http://www.yphb1234.cn/uppic/XL-9083.jpg",
+          "dd": "XL-9083 厨房龙头"
+        },
+        {
+          "id": 15,
+          "huanImg": "http://www.yphb1234.cn/uppic/XL-6013-.jpg",
+          "showImg": "http://www.yphb1234.cn/uppic/XL-6013.jpg",
+          "dd": "XL-6013 快开龙头 "
+        },
+        {
+          "id": 16,
+          "huanImg": "http://www.yphb1234.cn/uppic/XL-6213-.jpg",
+          "showImg": "http://www.yphb1234.cn/uppic/XL-6213.jpg",
+          "dd": "XL-6213"
+        }
+      ],
+      "elImg": [
+        {
+          "id": 0,
+          "imgs": "./static/homeone.jpg"
+        },
+        {
+          "id": 1,
+          "imgs": "./static/hometow.jpg"
+        }
+      ]
+    },
+    "AboutUs": {
+      "absuImg": "./static/false.png",
+      "longImg": "./static/login.jpg",
+      "mi": "关于我们",
+      "chuang": "Creative Quality",
+      "AboutUsli": "力创品质",
+      "textP": "20年专业技术水平,我们主营角钢，槽钢，工字钢，钢板，镀锌管，焊管，方管，PVC，PPR，厨卫浴具等等"
+    },
+    "scenarios": {
+      "chan": "应用场景",
+      "escape": "Application",
+      "scenImg": "./static/abou.jpg",
+      "spanImg": "./static/false.png",
+      "staticList": [
+        {
+          "id": 2000,
+          "staticImg": "https://11098851.s61i.faiusr.com/2/AD0I47WlBRACGAAgjoTavgUohvLxCzDCAzj1Ag.jpg",
+          "staticText": "购物广场"
+        },
+        {
+          "id": 2001,
+          "staticImg": "https://11098851.s61i.faiusr.com/2/AD0I47WlBRACGAAgkYTavgUoiPT66QYwwgM49QI.jpg",
+          "staticText": "工业大厦"
+        },
+        {
+          "id": 2002,
+          "staticImg": "https://11098851.s61i.faiusr.com/2/AD0I47WlBRACGAAgkYTavgUo7vL6xgcwwgM49QI.jpg",
+          "staticText": "商业大厦"
+        },
+        {
+          "id": 2003,
+          "staticImg": "https://11098851.s61i.faiusr.com/2/AD0I47WlBRACGAAgkoTavgUoz5D4vgcwwgM49QI.jpg",
+          "staticText": "购物广场"
+        },
+        {
+          "id": 2004,
+          "staticImg": "https://11098851.s61i.faiusr.com/4/AD0I47WlBRAEGAAgk4TavgUo5daExAcw3AQ47AI.png",
+          "staticText": "民用建筑"
+        },
+        {
+          "id": 2005,
+          "staticImg": "https://11098851.s61i.faiusr.com/2/AD0I47WlBRACGAAglITavgUohOKwPjDCAzj1Ag.jpg",
+          "staticText": "工业行政大厦"
+        }
+      ]
+    },
+    "contactus": {
+      "lianx": "联系我们",
+      "gou": "- 质量保证 -",
+      "conImg": "./static/hometreen.png",
+      "Ti": "我们用心服务",
+      "RightImg": "./static/cont.jpg",
+      "textP": "",
+      "conList": [
+        {
+          "id": 90,
+          "icon": "el-icon-mobile-phone",
+          "concar": "手机：13935834529 13663682898",
+          "conzuo": "座机：0358-5721721"
+        },
+        {
+          "id": 91,
+          "icon": "el-icon-location-outline",
+          "concar": "公司地址：山西省吕梁市石楼县延安街旧国土资源局旁"
+        },
+        {
+          "id": 92,
+          "icon": "el-icon-message",
+          "concar": "邮箱：834321724@qq.com"
+        }
+      ]
+    }
+  }
+}
