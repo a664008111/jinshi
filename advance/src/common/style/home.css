@@ -110,7 +110,7 @@ header.active{
     left:0;
     z-index: 999;
     padding: 0 200px;
-    background: linear-gradient(left,#222,#0070C0);
+    background: -webkit-linear-gradient(left,#222,#0070C0);
     transition: all 1s;
 }
 header .ho_nav ul.active{
@@ -142,7 +142,7 @@ header .ho_nav ul a li:hover{
     transition: .4s linear;   
 }
 header .ho_nav ul a li.active{
-    background: linear-gradient(left,#444,#0070C0);
+    background: -webkit-linear-gradient(left,#444,#0070C0);
     transition: .5s linear;
     box-shadow: 0 0 15px #fff;
 }
